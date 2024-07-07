@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adarshbasavoju@gmail.com**
 
-- ⚡ Fun fact **Coding and lattes make my day. Let's connect!**
+- ⚡ Fun fact **Coding and lattes make my day. Let's connect!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
