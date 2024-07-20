@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aadarsh</h1>
-<h1 align="center">Web3 Believer</h1>
+
 <h3 align="center">A passionate Blockchain developer from India.</h3>
 
 
